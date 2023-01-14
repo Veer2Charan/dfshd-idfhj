@@ -1,0 +1,1 @@
+createCanvas(640, 200)
